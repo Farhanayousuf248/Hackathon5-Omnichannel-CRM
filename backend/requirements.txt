@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+openai
+google-genai
+python-dotenv
+qrcode
+pydantic-settings
